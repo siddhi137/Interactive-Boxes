@@ -1,6 +1,6 @@
 ## BOGO DISCOUNT
 
-### This project is a simple Buy-One-Get-One (BOGO) discount pricing selection UI, designed to allow users to select different pricing tiers for purchasing multiple units of a product at discounted rates.
+### This project is a simple Buy-One-Get-One (BOGO) discount pricing, designed to allow users to select different pricing tiers for purchasing multiple units of a product at discounted rates.
 
 ## Features
 ✅ Multiple pricing options with discounts: 10%, 20%, and 30% off.
