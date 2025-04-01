@@ -1,6 +1,6 @@
 ## BOGO DISCOUNT
 
-### This project is a simple Buy-One-Get-One (BOGO) discount pricing, designed to allow users to select different pricing tiers for purchasing multiple units of a product at discounted rates.
+### This project is a simple Buy-One-Get-One (BOGO) discount pricing, designed to allow users to select different pricing for purchasing multiple units of a product at discounted rates.
 
 ## Features
 ✅ Multiple pricing options with discounts: 10%, 20%, and 30% off.
@@ -21,7 +21,5 @@
 - Clicking the "Add to Cart" button confirms the selection and proceeds with the order.
 
 ### Technology Stack
-- HTML, CSS, JavaScript (Frontend UI)
+- HTML, CSS, JavaScript
 
-## License
-This project is open-source and available under the MIT License.
